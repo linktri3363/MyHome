@@ -1,0 +1,49 @@
+# FFXI/Windower specific files
+*.log
+*.dat
+settings.xml
+data/settings.xml
+
+# User-specific configuration files
+config/
+configs/
+settings/
+user_settings/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.atom/
+
+# Windows
+desktop.ini
+
+# Test files
+test/
+tests/
+debug/
+
+# Personal data files (character-specific data that shouldn't be shared)
+*_data.lua
+personal_*.lua
