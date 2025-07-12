@@ -1,4 +1,4 @@
-# MyHome
+# MyHome2
 ## English
 - Automatically choose and uses a warp spell or an item.
 - **NEW**: GearSwap integration prevents gear conflicts during warp item usage.
